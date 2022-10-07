@@ -1,5 +1,6 @@
+eb init
 eb list
-eb use udagram-api-dev
+eb use udagram-api-env
 eb deploy
 eb setenv AWS_ACCESS_KEY_ID="$AWS_ACCESS_KEY_ID"
 eb setenv AWS_SECRET_ACCESS_KEY="$AWS_SECRET_ACCESS_KEY"
