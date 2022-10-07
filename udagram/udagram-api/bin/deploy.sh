@@ -1,5 +1,4 @@
-eb init
-eb list
+eb init udagram-api --platform node.js --region us-east-1eb list
 eb use udagram-api-env
 eb deploy
 eb setenv AWS_ACCESS_KEY_ID="$AWS_ACCESS_KEY_ID"
