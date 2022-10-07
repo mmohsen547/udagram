@@ -2,7 +2,7 @@
 
 ## Pipeline Diagram
 
-![](CircleciPipeline.PNG)
+![pipeline](CircleciPipeline.PNG)
 
 ## Pipeline Cycle
 
